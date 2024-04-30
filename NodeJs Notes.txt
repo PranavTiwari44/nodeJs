@@ -1,0 +1,5 @@
+NodeJs Notes
+> Function are high class citizen in javaScript, they can be used to assign to variables, passed as arguments!
+> Exports is private to each module, so you can't use them in other classes
+> Arrow functions begin with braces for parameter, then followed by arrow, then curly braces and in that we return or write the needed functionality
+> In case, you don't need any param for the function, you would still need the braces, they will be empty "= () =>"
